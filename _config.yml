@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: "BlueLight"
 logo: "https://raw.githubusercontent.com/BlueLightOS/bluelight/master/images/logo-transparent.png"
+description: "The official BlueLight website."
 plugins:
   - jekyll-mentions
