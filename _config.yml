@@ -6,6 +6,7 @@ github:
   is_project_page: true
   repository_url: "https://github.com/BlueLightOS/bluelight"
   repository_nwo: "BlueLightOS/bluelight"
+  is_user_page: false
 
 plugins:
   - jekyll-mentions
