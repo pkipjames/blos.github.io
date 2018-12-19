@@ -2,11 +2,7 @@ theme: jekyll-theme-minimal
 title: "BlueLight"
 logo: "https://raw.githubusercontent.com/BlueLightOS/bluelight/master/images/logo-transparent.png"
 description: "The official BlueLight website."
-github:
-  is_project_page: true
-  repository_url: "https://github.com/BlueLightOS/bluelight"
-  repository_nwo: "BlueLightOS/bluelight"
-  is_user_page: false
+github: {is_project_page: true,repository_url: "https://github.com/BlueLightOS/bluelight",repository_nwo: "BlueLightOS/bluelight",is_user_page: false}
 
 plugins:
   - jekyll-mentions
