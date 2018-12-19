@@ -5,6 +5,7 @@ BlueLight, formerly called OS.js Linux, is the lighweight web based Linux distro
 * @fire219: Images, logos, and splash images are designed by him.
 
 ## Links
+* [Blog](/blog)
 * [Discord Server Invite](https://discord.gg/ABey2Xc)
 * [Downloads](/downloads)
 * [Gitter Invite](https://gitter.im/TheBlueLightOS/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
