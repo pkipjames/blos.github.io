@@ -7,5 +7,6 @@ BlueLight is the lighweight web based Linux distro powered by OS.js. It uses the
 ## Links
 * [Discord Server Invite](https://discord.gg/ABey2Xc)
 * [Gitter Invite](https://gitter.im/TheBlueLightOS/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+* [Members)[/members]
 * [Subreddit](https://www.reddit.com/r/BlueLightOS/)
 * [YouTube Channel](https://www.youtube.com/channel/UCzCxZJvE42B6UU6NfyCR5oQ/)
