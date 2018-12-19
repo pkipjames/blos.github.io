@@ -7,3 +7,4 @@ github: {owner_name: "The BlueLightOS Maintainers",zip_url: "https://github.com/
 
 plugins:
   - jekyll-mentions
+  - jekyll-sitemap
