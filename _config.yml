@@ -3,7 +3,7 @@ title: "BlueLight"
 logo: "https://raw.githubusercontent.com/BlueLightOS/bluelight/master/images/logo-transparent.png"
 description: "The official BlueLight website."
 show_downloads: true
-github: {is_project_page: true,repository_url: "https://github.com/BlueLightOS/bluelight",repository_nwo: "BlueLightOS/bluelight",is_user_page: false}
+github: {zip_url: "https://github.com/BlueLightOS/bluelight/zipball/master",tar_url: "https://github.com/BlueLightOS/bluelight/tarball/master",is_project_page: true,repository_url: "https://github.com/BlueLightOS/bluelight",repository_nwo: "BlueLightOS/bluelight",is_user_page: false}
 
 plugins:
   - jekyll-mentions
