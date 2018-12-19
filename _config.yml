@@ -4,6 +4,6 @@ logo: "https://raw.githubusercontent.com/BlueLightOS/bluelight/master/images/log
 description: "The official BlueLight website."
 github:
   is_project_page: true
-  is_user_page: false
+
 plugins:
   - jekyll-mentions
