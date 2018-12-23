@@ -1,4 +1,4 @@
-BlueLight, formerly called OS.js Linux, is the lighweight web based Linux distro powered by OS.js. It uses the power of Chromium to run a web based desktop environment, OS.js, to provide the user with a more web based experience.
+BlueLight, formerly called OS.js Linux, is the lighweight web based Linux distro powered by OS.js. It uses the power of Electron to run a web based desktop environment, OS.js, to provide the user with a more web based experience.
 
 ## Credits
 * @andersevenrud: Without him helping me figuring out issues and stuff, this would've never gotten off the ground. He also created OS.js.
