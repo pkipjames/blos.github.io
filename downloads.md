@@ -5,6 +5,7 @@ title: Downloads
 All downloads are `amd64` (64-Bit) iso's.
 
 ## Downloads
+* [`0.1.8-prealpha`](https://github.com/BlueLightOS/bluelight/releases/download/0.1.8-prealpha/bluelight-0.1.8-prealpha-x86_64.iso)
 * [`0.1.7-prealpha`](https://github.com/BlueLightOS/bluelight/releases/download/0.1.7-prealpha/bluelight-0.1.7-prealpha-x86_64.iso)
 * [`0.1.6-prealpha`](https://github.com/BlueLightOS/bluelight/releases/download/0.1.6-prealpha/bluelight-0.1.6-prealpha-x86_64.iso)
 * [`0.1.5-prealpha`](https://github.com/BlueLightOS/bluelight/releases/download/0.1.5-prealpha/bluelight-0.1.5-prealpha-x86_64.iso)
