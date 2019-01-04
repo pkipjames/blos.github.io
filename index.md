@@ -10,5 +10,7 @@ BlueLight, formerly called OS.js Linux, is the lighweight web based Linux distro
 * [Downloads](/downloads)
 * [Gitter Invite](https://gitter.im/TheBlueLightOS/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 * [Members](/members)
+* [Screenshots](https://github.com/BlueLightOS/bluelight/wiki/Screenshots)
 * [Subreddit](https://www.reddit.com/r/BlueLightOS/)
+* [Wiki](https://github.com/BlueLightOS/bluelight/wiki/)
 * [YouTube Channel](https://www.youtube.com/channel/UCzCxZJvE42B6UU6NfyCR5oQ/)
